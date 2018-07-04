@@ -2,7 +2,7 @@ import json
 from selenium import webdriver
 
 
-class jsonReader:
+class Initializer:
 
     def __init__(self):
         self.path = "config.json"
