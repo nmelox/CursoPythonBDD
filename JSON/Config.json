@@ -1,0 +1,5 @@
+{
+	"Browser" : "Chrome",
+	"URL" : "http://127.0.0.1/redmine/",
+	"ChromeDriverPath":  "chromedriver.exe"
+}

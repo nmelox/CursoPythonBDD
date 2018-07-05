@@ -1,7 +1,0 @@
-{
-	"Browser" : "Chrome",
-	"URL" : "https://www.redmine.org/",
-	"ChromeDriverPath":  "chromedriver.exe",
-	"user": "nmelo",
-	"password": "test"
-}
